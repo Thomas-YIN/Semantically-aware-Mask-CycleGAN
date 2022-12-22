@@ -3,7 +3,7 @@
 
 # Semantically-aware Mask CycleGAN (SMCycleGAN)
 
-This repository is for the work of SMCycleGAN, which is built based on [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and used for translating artistic portraits to photo-realistic visualizations. This model is developed for the course project of COMP4711 in HKUST by YIN Zhuohao. This model is compared with several state of the art models such as [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), [Art2Real](https://github.com/aimagelab/art2real), and has produced much more compelling results, as shown below.
+This repository is for the work of SMCycleGAN, which is built based on [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and used for translating artistic portraits to photo-realistic visualizations. This model is developed for the course project in COMP4711: Deep Learning for Computer Vision, HKUST, by [YIN Zhuohao](https://github.com/Thomas-YIN). This model is compared with several state of the art models such as [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), [Art2Real](https://github.com/aimagelab/art2real), and has produced much more compelling results, as shown below.
 
 <img src="images/comparison.png" alt="" width="450"/>
 
