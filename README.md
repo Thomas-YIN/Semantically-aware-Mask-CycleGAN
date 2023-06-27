@@ -11,4 +11,4 @@ This repository is for the work of SMCycleGAN, which is built based on [CycleGAN
 To reproduce the results and download pre-trained models, you may check out [this folder](https://drive.google.com/drive/folders/1Q025PjGnAFwQLwl_KoLe-GUT2IqHVN2i?usp=share_link) on Google Drive. It contains datasets, model checkpoints, and generated examples.
 
 ## Project report
-You may check out the project final report [here](<Semantically-aware Mask CycleGAN for Translating Artistic Portraits to Photo-realistic Visualizations.pdf>). The report is written with the provided template for submission to [CVPR](https://cvpr2022.thecvf.com/).
+You may check out the project final report [here](https://arxiv.org/pdf/2306.06577.pdf) on arXiv.
